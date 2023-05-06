@@ -1,0 +1,20 @@
+body{
+    background-color: grey;
+    color: black;
+}
+
+h1{
+    text-align: center;
+}
+#Converter{
+    margin-left: 20%;
+    padding-top: 30px;
+
+}
+#inputTemperature{
+    height: 30px;
+}
+#convertTo,#con {
+    height: 30px;
+}
+
